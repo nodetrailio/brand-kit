@@ -2,9 +2,9 @@
 
 Official Nodetrail mark, coin, lockups, and profile images.
 
-**On-chain sight, security tight.**
+**Scan first. Ape different.™**
 
-This is the F5a mark in the official color scheme (ember to violet to blue). Use these files as they are. For the product, go to [nodetrail.io](https://nodetrail.io). For official links and safety, go to [nodetrail.io/security](https://nodetrail.io/security).
+This is the F5a mark in the official color scheme (orange and gold with an electric-blue edge). Use these files as they are. For the product, go to [nodetrail.io](https://nodetrail.io). For official links and safety, go to [nodetrail.io/security](https://nodetrail.io/security).
 
 ## Which file to use
 
@@ -30,7 +30,7 @@ A one-page sheet of the kit is in `kit-sheet.png`.
 - Do not add a T into the N
 - Do not rotate, outline, recolor, or drop a shadow on the mark
 - Do not change the official colors
-- Do not put the color mark on a competing rainbow, or on a field that clashes with the ember, violet, or blue in the mark
+- Do not put the color mark on a competing rainbow, or on a field that clashes with the orange, gold, or blue in the mark
 - Do not use any other file as the official mark
 
 ## Official links
